@@ -6,6 +6,12 @@ DummyImportDateTimeFormatterTrait
 DummyImportSoftDeletesTrait
 use Illuminate\Database\Eloquent\Model;
 
+/**
+ * 创建时间 DummyCreatedAt
+ * @package DummyNamespace
+ *
+DummyComment
+ */
 class DummyClass extends Model
 {
 	DummyUseDateTimeFormatterTrait
